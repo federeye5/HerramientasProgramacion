@@ -24065,6 +24065,11 @@
       "FilePath": "f:\\Programacion\\Herramientas programacion\\Clase 1\\Pages\\Profesor.cshtml",
       "TargetPath": "Pages\\Profesor.cshtml",
       "FileKind": "mvc"
+    },
+    {
+      "FilePath": "f:\\Programacion\\Herramientas programacion\\Clase 1\\Pages\\Shared\\_Formulario.cshtml",
+      "TargetPath": "Pages\\Shared\\_Formulario.cshtml",
+      "FileKind": "mvc"
     }
   ]
 }

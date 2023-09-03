@@ -1,7 +1,7 @@
 ﻿@page
 @model IndexModel
 
-//Todo lo que va en va codigo c# que despues html lo lee
+<!--//Todo lo que va en va codigo c# que despues html lo lee -->
 @{
     ViewData["Title"] = "Home page";
 
@@ -12,3 +12,5 @@
     <h1 class="display-4">Welcome</h1>
     <p>@mensaje</p>
 </div>
+@* //esto es codigo compartido que va a poder utilizarse en donde quiera *@
+<partial name="_Formulario"></partial>
