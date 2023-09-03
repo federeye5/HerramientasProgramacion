@@ -1,0 +1,30 @@
+F:\Programacion\Herramientas programacion\Clase 1\bin\Debug\net7.0\appsettings.Development.json
+F:\Programacion\Herramientas programacion\Clase 1\bin\Debug\net7.0\appsettings.json
+F:\Programacion\Herramientas programacion\Clase 1\bin\Debug\net7.0\Clase 1.staticwebassets.runtime.json
+F:\Programacion\Herramientas programacion\Clase 1\bin\Debug\net7.0\Clase 1.exe
+F:\Programacion\Herramientas programacion\Clase 1\bin\Debug\net7.0\Clase 1.deps.json
+F:\Programacion\Herramientas programacion\Clase 1\bin\Debug\net7.0\Clase 1.runtimeconfig.json
+F:\Programacion\Herramientas programacion\Clase 1\bin\Debug\net7.0\Clase 1.dll
+F:\Programacion\Herramientas programacion\Clase 1\bin\Debug\net7.0\Clase 1.pdb
+F:\Programacion\Herramientas programacion\Clase 1\obj\Debug\net7.0\Clase 1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programacion\Herramientas programacion\Clase 1\obj\Debug\net7.0\Clase 1.AssemblyInfoInputs.cache
+F:\Programacion\Herramientas programacion\Clase 1\obj\Debug\net7.0\Clase 1.AssemblyInfo.cs
+F:\Programacion\Herramientas programacion\Clase 1\obj\Debug\net7.0\Clase 1.csproj.CoreCompileInputs.cache
+F:\Programacion\Herramientas programacion\Clase 1\obj\Debug\net7.0\Clase 1.MvcApplicationPartsAssemblyInfo.cache
+F:\Programacion\Herramientas programacion\Clase 1\obj\Debug\net7.0\Clase 1.RazorAssemblyInfo.cache
+F:\Programacion\Herramientas programacion\Clase 1\obj\Debug\net7.0\Clase 1.RazorAssemblyInfo.cs
+F:\Programacion\Herramientas programacion\Clase 1\obj\Debug\net7.0\staticwebassets\msbuild.Clase 1.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Programacion\Herramientas programacion\Clase 1\obj\Debug\net7.0\staticwebassets\msbuild.build.Clase 1.props
+F:\Programacion\Herramientas programacion\Clase 1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Clase 1.props
+F:\Programacion\Herramientas programacion\Clase 1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Clase 1.props
+F:\Programacion\Herramientas programacion\Clase 1\obj\Debug\net7.0\staticwebassets.pack.json
+F:\Programacion\Herramientas programacion\Clase 1\obj\Debug\net7.0\staticwebassets.build.json
+F:\Programacion\Herramientas programacion\Clase 1\obj\Debug\net7.0\staticwebassets.development.json
+F:\Programacion\Herramientas programacion\Clase 1\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+F:\Programacion\Herramientas programacion\Clase 1\obj\Debug\net7.0\scopedcss\bundle\Clase 1.styles.css
+F:\Programacion\Herramientas programacion\Clase 1\obj\Debug\net7.0\scopedcss\projectbundle\Clase 1.bundle.scp.css
+F:\Programacion\Herramientas programacion\Clase 1\obj\Debug\net7.0\Clase 1.dll
+F:\Programacion\Herramientas programacion\Clase 1\obj\Debug\net7.0\refint\Clase 1.dll
+F:\Programacion\Herramientas programacion\Clase 1\obj\Debug\net7.0\Clase 1.pdb
+F:\Programacion\Herramientas programacion\Clase 1\obj\Debug\net7.0\Clase 1.genruntimeconfig.cache
+F:\Programacion\Herramientas programacion\Clase 1\obj\Debug\net7.0\ref\Clase 1.dll
