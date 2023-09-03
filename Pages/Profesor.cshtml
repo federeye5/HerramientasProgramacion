@@ -1,4 +1,26 @@
 ﻿@page
 @model Clase1.Pages.ProfesorModel
 @{
+    var listProfesor = new List<string>();
+        listProfesor.Add("Manuel");
+        listProfesor.Add("Manuel");
+        listProfesor.Add("Manuel");
+        listProfesor.Add("Manuel");
+        listProfesor.Add("Manuel");
+        listProfesor.Add("Manuel");
+        listProfesor.Add("Manuel");
+        listProfesor.Add("Manuel");
+
+        var listaDistinta = "";
+
+        foreach(var y in listProfesor){
+            listaDistinta += y + " ";
+        }
 }
+<h1>Lista de Profesor</h1>
+<h2>@listaDistinta</h2>
+<ul>
+    @foreach (var x in listProfesor){
+        <li>@x</li>
+    }
+</ul>
